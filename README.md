@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FullStack programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-    benlahcne.hissa@gmail.com
+    benlahcen.hissa@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
